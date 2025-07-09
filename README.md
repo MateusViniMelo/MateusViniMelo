@@ -8,7 +8,7 @@ Portifólio: [https://mateus-melo-dev.vercel.app/](https://mateus-melo-dev.verce
 
 Minhas competências incluem:
 
-- Back-end com PHP e Laravel
+- Back-end com PHP, Laravel e Hyperf
 
 - Front-end com Vue.js, Angular e Nuxt 3
 
